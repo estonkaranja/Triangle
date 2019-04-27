@@ -14,8 +14,8 @@ body{
 }
 /*header*/
 header{
-  background: #7370d8;
-  color: #ffffff;
+  background:black;
+  color: pink;
   padding-top: 30px;
   min-height: 70px;
   border: 1px solid #7370d8;
@@ -58,7 +58,7 @@ ul{
 /*banner section*/
 #banner{
   min-height: 480px;
-  background: url("../images/banner.jpg");
+  background: url("https://images.wallpaperscraft.com/image/triangle_light_blurred_88541_300x168.jpg");
   color: #ffffff;
 }
 #banner h1{

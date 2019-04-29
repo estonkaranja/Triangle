@@ -42,6 +42,6 @@ Contributor known as of today is by Brian Orina.
 For any suport please email: estonkaranja881@gmail.com tel:+254 724 351 764.
 
 ### Copyright
-© Designed by Brian Orina 2019
+© Designed by estonkaranja 2019
 # Triangle
 # track

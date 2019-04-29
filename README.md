@@ -1,4 +1,5 @@
-# PATT
+#### Project Title
+Triangle-tracker.
 
 ### Aplication Description
 This is an application which detects the type of triangles.This can be either an Equilateral triangle, Isosceles triangle or a Scalene triangle. When a user inputs different measurement, conditions have to met for it to determine if those measurements entered can form a triangle. This applicatipon caanot accept strings i.e. it cannot accept letters as letters cannot form triangle so the application will return an error.
@@ -25,7 +26,7 @@ This returns:
 - Use of HTML and CSS
 
 ### Getting Started
-* git clone https://github.com/Brian-Orina/patt.git
+* git clone https://github.com/estonkaranja/github.com
 * cd UI Then open index.html in your browser
 
 ### Technologies Used
@@ -38,7 +39,7 @@ This returns:
 Contributor known as of today is by Brian Orina.
 
 ### Support And Contact Details
-For any suport please email: brianmogaka.bm@gmail.com or call +254 702 174 992
+For any suport please email: estonkaranja881@gmail.com tel:+254 724 351 764.
 
 ### Copyright
 © Designed by Brian Orina 2019

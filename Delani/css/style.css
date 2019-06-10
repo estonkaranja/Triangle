@@ -1,0 +1,55 @@
+@import url('fonts.css');
+@import url('bootstrap.css');
+
+h1{
+    text-align: center;
+}
+.col-7{
+    padding: 50px;
+    margin: 50px;
+}
+.hmi{
+    background-image: url(../Backgrounds/h_img.jpg);
+    height: 600px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-size: 25px;
+}
+.nobe{
+    background-image: url(../Backgrounds/s_image.jpg);
+    height: 400px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    color: white;
+}
+p1{
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.Drip{
+    background-image: url(../services_icons/design_icon.png);
+    background-repeat: no-repeat;
+}
+.home{
+    background-image: url(../services_icons/dev_icon.png);
+    background-repeat: no-repeat;
+   
+}
+.goals{
+    background-image: url(../services_icons/product_icon.png);
+    background-repeat: no-repeat;
+}
+dop{
+    size: 90px;
+}
